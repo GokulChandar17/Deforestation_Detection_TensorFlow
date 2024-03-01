@@ -11,6 +11,8 @@
 
 
 ==========================================================================
+
+
 **Objective:**
 Developed a comprehensive deforestation monitoring system leveraging remote sensing, machine learning, and geographic information systems (GIS) technologies. The project aimed to utilize TensorFlow as a base for building EfficientNetV2 models to classify satellite images, comparing forest images with time series data to identify deforestation patterns and trends.
 
